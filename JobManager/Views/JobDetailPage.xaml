@@ -23,11 +23,26 @@
         <RefreshView Command="{Binding RefreshCommand}" IsRefreshing="{Binding IsBusy}">
             <StackLayout Margin="20" VerticalOptions="FillAndExpand">
                 <Label Text="Name:" FontSize="Medium" />
-                <Entry Text="{Binding Name}" FontSize="Small"/>
+                <Label x:Name="NameLabel" Text="Name:" FontSize="Medium"/>
+
+                <Entry Text="{Binding Name}" FontSize="Small"
+                       AutomationProperties.IsInAccessibleTree="True"
+                       AutomationProperties.LabeledBy="x:ReferenceNameLabel"/>
+
                 <Label Text="Description:" FontSize="Medium" />
-                <Entry Text="{Binding Description}" FontSize="Small"/>
-                <Button Text="Save" Command="{Binding SaveCommand}" />
-                <Button Text="Take Picture" Command="{Binding TakePictureCommand}" />
+                <Label x:Name="DescriptionLabel" Text="Description:" FontSize="Medium"/>
+
+                <Entry Text="{Binding Description}" FontSize="Small"
+                       AutomationProperties.IsInAccessibleTree="True"
+                       AutomationProperties.LabeledBy="x:ReferenceDescriptionLabel"/>
+
+                <Button Text="Save" Command="{Binding SaveCommand}"
+                        AutomationProperties.IsInAccessibleTree="True"
+                        AutomationProperties.HelpText="Press to click save button"/>
+
+                <Button Text="Take Picture" Command="{Binding TakePictureCommand}"
+                        AutomationProperties.IsInAccessibleTree="True"
+                        AutomationProperties.HelpText="Press to take picture button"/>
                 <Image Source="{Binding Picture}"/>
 
                 <Label Text="Pictures:" FontSize="Large" />
