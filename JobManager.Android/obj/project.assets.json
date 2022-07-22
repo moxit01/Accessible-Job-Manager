@@ -3829,11 +3829,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/moxitshah/Projects/AccessibleJobManager1/JobManager.Android/JobManager.Android.csproj",
+      "projectUniqueName": "/Users/moxitshah/Documents/GitHub/Accessible-Job-Manager/JobManager.Android/JobManager.Android.csproj",
       "projectName": "JobManager.Android",
-      "projectPath": "/Users/moxitshah/Projects/AccessibleJobManager1/JobManager.Android/JobManager.Android.csproj",
+      "projectPath": "/Users/moxitshah/Documents/GitHub/Accessible-Job-Manager/JobManager.Android/JobManager.Android.csproj",
       "packagesPath": "/Users/moxitshah/.nuget/packages/",
-      "outputPath": "/Users/moxitshah/Projects/AccessibleJobManager1/JobManager.Android/obj/",
+      "outputPath": "/Users/moxitshah/Documents/GitHub/Accessible-Job-Manager/JobManager.Android/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -3848,8 +3848,8 @@
       "frameworks": {
         "monoandroid11.0": {
           "projectReferences": {
-            "/Users/moxitshah/Projects/AccessibleJobManager1/JobManager/JobManager.csproj": {
-              "projectPath": "/Users/moxitshah/Projects/AccessibleJobManager1/JobManager/JobManager.csproj"
+            "/Users/moxitshah/Documents/GitHub/Accessible-Job-Manager/JobManager/JobManager.csproj": {
+              "projectPath": "/Users/moxitshah/Documents/GitHub/Accessible-Job-Manager/JobManager/JobManager.csproj"
             }
           }
         }

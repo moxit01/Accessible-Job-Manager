@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/moxitshah/Projects/AccessibleJobManager1/JobManager.API/JobManager.API.csproj": {}
+    "/Users/moxitshah/Documents/GitHub/Accessible-Job-Manager/JobManager.API/JobManager.API.csproj": {}
   },
   "projects": {
-    "/Users/moxitshah/Projects/AccessibleJobManager1/JobManager.API/JobManager.API.csproj": {
+    "/Users/moxitshah/Documents/GitHub/Accessible-Job-Manager/JobManager.API/JobManager.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/moxitshah/Projects/AccessibleJobManager1/JobManager.API/JobManager.API.csproj",
+        "projectUniqueName": "/Users/moxitshah/Documents/GitHub/Accessible-Job-Manager/JobManager.API/JobManager.API.csproj",
         "projectName": "JobManager.API",
-        "projectPath": "/Users/moxitshah/Projects/AccessibleJobManager1/JobManager.API/JobManager.API.csproj",
+        "projectPath": "/Users/moxitshah/Documents/GitHub/Accessible-Job-Manager/JobManager.API/JobManager.API.csproj",
         "packagesPath": "/Users/moxitshah/.nuget/packages/",
-        "outputPath": "/Users/moxitshah/Projects/AccessibleJobManager1/JobManager.API/obj/",
+        "outputPath": "/Users/moxitshah/Documents/GitHub/Accessible-Job-Manager/JobManager.API/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/moxitshah/.config/NuGet/NuGet.Config"

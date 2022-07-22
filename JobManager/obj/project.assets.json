@@ -1020,11 +1020,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/moxitshah/Projects/AccessibleJobManager1/JobManager/JobManager.csproj",
+      "projectUniqueName": "/Users/moxitshah/Documents/GitHub/Accessible-Job-Manager/JobManager/JobManager.csproj",
       "projectName": "JobManager",
-      "projectPath": "/Users/moxitshah/Projects/AccessibleJobManager1/JobManager/JobManager.csproj",
+      "projectPath": "/Users/moxitshah/Documents/GitHub/Accessible-Job-Manager/JobManager/JobManager.csproj",
       "packagesPath": "/Users/moxitshah/.nuget/packages/",
-      "outputPath": "/Users/moxitshah/Projects/AccessibleJobManager1/JobManager/obj/",
+      "outputPath": "/Users/moxitshah/Documents/GitHub/Accessible-Job-Manager/JobManager/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/moxitshah/.config/NuGet/NuGet.Config"
